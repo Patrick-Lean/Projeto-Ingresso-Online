@@ -59,7 +59,6 @@ Projeto-Ingresso-Online/
 │   └── style.css
 ├── index.html
 ├── README.md
-└── LICENSE (se houver)
 ```
 
 ## Lógica da aplicação
